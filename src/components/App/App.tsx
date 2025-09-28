@@ -1,7 +1,7 @@
 import css from './App.module.css';
-import CafeInfo from '../cafeInfo/CafeInfo';
-import VoteOptions from '../voteOptions/VoteOptions';
-import VoteStats from '../voteStats/VoteStats';
+import CafeInfo from '../CafeInfo/CafeInfo';
+import VoteOptions from '../VoteOptions/VoteOptions';
+import VoteStats from '../VoteStats/VoteStats';
 import Notification from '../Notifications/Notification';
 
 // import type { VoteType } from '../../types/votes';
